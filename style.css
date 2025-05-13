@@ -1,0 +1,54 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #b3cf99;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  
+  .profile-pic {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .brand-title {
+    font-family: 'Great Vibes';
+    font-size: 28px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  
+  .msi-logo {
+    height: 50px; 
+    vertical-align: middle;
+  }
+  
+  
+  .link-btn {
+    font-family: 'Pacifico', cursive;
+    display: block;
+    background: #7fae54;
+    color: #e7f0de;
+    text-decoration: none;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 12px;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  
+  .link-btn:hover {
+    background: #99bf76;
+  }
+  
